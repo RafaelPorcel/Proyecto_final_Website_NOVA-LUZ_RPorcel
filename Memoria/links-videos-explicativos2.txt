@@ -1,0 +1,41 @@
+RECUPERAR DATOS DE BD DESDE PHP - https://www.youtube.com/watch?v=imra2f2lrUU&ab_channel=Danisable
+
+CREAR WEB COMPLETA - https://www.youtube.com/watch?v=HH_SMpxV7qQ&ab_channel=AlexCGDesign
+
+BARRA NAV. TRANSPARENTE CON BOOTSTRAP Y CSS - https://styde.net/barra-de-navegacion-navbar-transparente-con-bootstrap-y-css/
+
+EFECTO WAVE (SOBRE NOSOTROS) - https://smooth.ie/blogs/news/svg-wavey-transitions-between-sections
+
+CREA WEB CON HTML DESDE 0 (MUCHOS RECURSOS) -https://alexcgdesign.com/blog/crea-una-pagina-web-desde-0-con-efecto-wave/
+
+ILUSTRACIONES SVG PARA WEBS GRATIS - https://www.youtube.com/watch?v=cjfSvqjn638&ab_channel=AlexCGDesign
+
+LINK TELEFONO - https://rafarjonilla.com/tutorial/crear-enlace-html-para-llamar-por-telefono/
+
+
+
+-.WEBGRAFÍA.-
+como crear web con bootstrap - https://blog.nubecolectiva.com/como-crear-una-pagina-web-con-bootstrap-5-parte-1/
+descargar imágenes sin derechos - https://unsplash.com/es
+web oficial bootstrap - https://getbootstrap.com/
+efecto wave - https://smooth.ie/blogs/news/svg-wavey-transitions-between-sections
+link telefono - https://rafarjonilla.com/tutorial/crear-enlace-html-para-llamar-por-telefono/
+link whatsapp - https://ebweb.es/boton-de-whatsapp-html-sin-plugins/
+linea links del footer - https://cssgradient.io/
+eliminar scroll - https://uniwebsidad.com/foro/pregunta/463/eliminar-el-scroll-horizontal-de-una-pagina-disenada-con-bootstrap/
+web de bootstrap - https://getbootstrap.com/
+imagenes - https://es.123rf.com/
+enviar mail desde php - https://desarrolloweb.com/articulos/969.php
+info form y submit - https://es.javascript.info/forms-submit      https://mdbootstrap.com/docs/b4/jquery/forms/contact/
+dudas sobre código - https://es.stackoverflow.com/
+dudas sobre código - https://stackoverflow.com/
+tutorial sobre carrousel bootstrap - https://webdesign.tutsplus.com/es/tutorials/
+estilos - https://programmerclick.com/
+para hacer diagramas - https://lucid.app/
+PLANTILLA MIA WIREFRAME - https://lucid.app/lucidspark/4cca898c-ef2e-4c6b-ab8f-26e0718e7de5/edit?beaconFlowId=FD84E2D2D9FD3E1B&invitationId=inv_c6fa2072-70ca-4ef4-b96f-ce075439941f#
+
+fuentes para la documentacion word - https://www.abueloinformatico.es/
+indice automatico - https://www.xataka.com/basics/como-hacer-indice-automatico-word
+encabezado con imagenes - https://support.microsoft.com/es-es/office/agregar-im%C3%A1genes-a-un-encabezado-o-pie-de-p%C3%A1gina-6116c691-9d34-4535-b4c4-1d20784e7e1d#:~:text=Vaya%20a%20Insertar%20%3E%20Encabezado%20o,o%20presione%20Esc%20para%20salir.
+
+

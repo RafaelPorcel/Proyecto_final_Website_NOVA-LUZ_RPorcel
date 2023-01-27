@@ -1,0 +1,118 @@
+/*para el hover del menú*/
+.navbar .navbar-nav .nav-item:hover{
+    background-color: red;
+}
+
+body{
+    background: url(img/fondo2.jpg) no-repeat;
+    background-size: cover;
+}
+
+.tarjetas{
+    padding: 10px;
+}
+
+.card{
+    padding: 10px;
+    margin: 10px;
+   
+}
+
+.card .card-body p{
+    text-align: justify;
+}
+
+.card .card-body .btn{
+    background-color: rgb(192, 45, 45);
+    border: none;
+    color: white;
+}
+
+.direccion .fa-ul .correo a{
+    color: white;
+    text-decoration: none;
+    background-image: linear-gradient(90deg, rgb(192, 45, 45) 0%, rgb(255, 255, 255) 50%, rgb(192, 45, 45) 100%);
+    background-position: 0% 100%;
+    background-repeat: no-repeat;
+    background-size: 0% 2px;
+    transition: background-size .3s;
+}
+
+.direccion .fa-ul .maps a{
+    color: white;
+    text-decoration: none;
+    background-image: linear-gradient(90deg, rgb(192, 45, 45) 0%, rgb(255, 255, 255) 50%, rgb(192, 45, 45) 100%);
+    background-position: 0% 100%;
+    background-repeat: no-repeat;
+    background-size: 0% 2px;
+    transition: background-size .3s;
+}
+
+.direccion .fa-ul .correo a:hover, a:focus{
+    background-size: 100% 2px;
+}
+
+.direccion .fa-ul .maps a:hover, a:focus{
+    background-size: 100% 2px;
+}
+
+.direccion .fa-ul .telefono a{
+    color: white;
+    text-decoration: none;
+    background-image: linear-gradient(90deg, rgb(192, 45, 45) 0%, rgb(255, 255, 255) 50%, rgb(192, 45, 45) 100%);
+    background-position: 0% 100%;
+    background-repeat: no-repeat;
+    background-size: 0% 2px;
+    transition: background-size .3s;
+}
+
+.direccion .fa-ul .telefono a:hover, a:focus{
+    background-size: 100% 2px;
+}
+
+.direccion .fa-ul .whatsapp a{
+    color: white;
+    text-decoration: none;
+    background-image: linear-gradient(90deg, rgb(192, 45, 45) 0%, rgb(255, 255, 255) 50%, rgb(192, 45, 45) 100%);
+    background-position: 0% 100%;
+    background-repeat: no-repeat;
+    background-size: 0% 2px;
+    transition: background-size .3s;
+}
+
+.direccion .fa-ul .whatsapp a:hover, a:focus{
+    background-size: 100% 2px;
+}
+
+.carrusel{
+    margin-top: 5%;
+}
+
+body {
+    overflow-x: hidden;
+}
+
+.card-body a{
+    text-decoration: none;
+    font-weight: bold;
+    color: rgb(192, 45, 45);
+}
+
+.carousel-control-prev-icon, .carousel-control-next-icon {
+    filter: invert(108%);
+  }
+
+.carousel-indicators{
+    filter: invert(108%);
+}
+
+main .ofertas_h4{
+    color: #7f3737;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.formularios .btn{
+    background-color: rgb(192, 45, 45);
+    border: none;
+    color: white;
+}
