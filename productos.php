@@ -56,7 +56,7 @@
     <section class="formularios">
 
         <div class="formularios row justify-content-center">
-            <div class="form1 col-md-4">
+            <div class="form1 col-lg-6">
                 <form action='' method="GET">
                 <fieldset >
                 <legend>Producto</legend>
